@@ -85,7 +85,7 @@ function cryptobox_new_payment($paymentID = 0, $payment_details = array(), $box_
     /** .............
 	.............
 
-	PLACE YOUR CODE HERE
+	1EFqr92oqwaFXm3Wi9j4dJKY2mN8AdPANS
 
 	Update database with new payment, send email to user, etc
 	Please note, all received payments store in your table `crypto_payments` also
